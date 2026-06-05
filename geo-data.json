@@ -1,6 +1,7 @@
 {
   "meta": {
-    "lastUpdated": "2026-06-01"
+    "lastUpdated": "2026-06-05",
+    "exportedAt": "2026-06-05T02:25:15.434Z"
   },
   "clients": [
     {
@@ -124,11 +125,196 @@
         "除螨仪推荐",
         "家用洗地机排行"
       ]
+    },
+    {
+      "id": "c-fw7jjh5",
+      "name": "上韬上略",
+      "en": "FORMOS",
+      "industry": "科技",
+      "glyph": "上",
+      "hue": 262,
+      "competitors": [],
+      "platformIds": [
+        "doubao",
+        "deepseek"
+      ],
+      "prompts": [
+        "AIGC视频内容制作公司推荐",
+        "AIGC视频内容制作公司哪家好"
+      ]
     }
   ],
   "records": [
     {
-      "id": "r-63rw2zj",
+      "id": "r-v2r48zb",
+      "clientId": "c-fw7jjh5",
+      "prompt": "AIGC视频内容制作公司推荐",
+      "platform": "deepseek",
+      "mentioned": false,
+      "rank": null,
+      "sentiment": "pos",
+      "cited": false,
+      "sources": 0,
+      "date": "2026-06-05"
+    },
+    {
+      "id": "r-obcqk9o",
+      "clientId": "c-fw7jjh5",
+      "prompt": "AIGC视频内容制作公司推荐",
+      "platform": "deepseek",
+      "mentioned": true,
+      "rank": 1,
+      "sentiment": "pos",
+      "cited": false,
+      "sources": 0,
+      "date": "2026-06-04"
+    },
+    {
+      "id": "r-q5rwwcm",
+      "clientId": "c-fw7jjh5",
+      "prompt": "AIGC视频内容制作公司推荐",
+      "platform": "deepseek",
+      "mentioned": false,
+      "rank": null,
+      "sentiment": "pos",
+      "cited": false,
+      "sources": 0,
+      "date": "2026-06-03"
+    },
+    {
+      "id": "r-coxb33p",
+      "clientId": "c-fw7jjh5",
+      "prompt": "AIGC视频内容制作公司推荐",
+      "platform": "deepseek",
+      "mentioned": false,
+      "rank": null,
+      "sentiment": "pos",
+      "cited": false,
+      "sources": 0,
+      "date": "2026-06-02"
+    },
+    {
+      "id": "r-ypncomf",
+      "clientId": "c-fw7jjh5",
+      "prompt": "AIGC视频内容制作公司推荐",
+      "platform": "deepseek",
+      "mentioned": true,
+      "rank": 1,
+      "sentiment": "pos",
+      "cited": false,
+      "sources": 0,
+      "date": "2026-06-03"
+    },
+    {
+      "id": "r-s9s0jrf",
+      "clientId": "c-fw7jjh5",
+      "prompt": "AIGC视频内容制作公司推荐",
+      "platform": "deepseek",
+      "mentioned": false,
+      "rank": null,
+      "sentiment": "pos",
+      "cited": false,
+      "sources": 0,
+      "date": "2026-06-02"
+    },
+    {
+      "id": "r-4zzse1i",
+      "clientId": "c-fw7jjh5",
+      "prompt": "AIGC视频内容制作公司推荐",
+      "platform": "doubao",
+      "mentioned": true,
+      "rank": 1,
+      "sentiment": "pos",
+      "cited": false,
+      "sources": 0,
+      "date": "2026-06-04"
+    },
+    {
+      "id": "r-ynzzyv3",
+      "clientId": "c-fw7jjh5",
+      "prompt": "AIGC视频内容制作公司推荐",
+      "platform": "doubao",
+      "mentioned": false,
+      "rank": null,
+      "sentiment": "pos",
+      "cited": false,
+      "sources": 0,
+      "date": "2026-06-02"
+    },
+    {
+      "id": "r-ia5yvyi",
+      "clientId": "c-fw7jjh5",
+      "prompt": "AIGC视频内容制作公司推荐",
+      "platform": "deepseek",
+      "mentioned": true,
+      "rank": 3,
+      "sentiment": "pos",
+      "cited": false,
+      "sources": 0,
+      "date": "2026-06-01"
+    },
+    {
+      "id": "r-w0xau67",
+      "clientId": "c-fw7jjh5",
+      "prompt": "AIGC视频内容制作公司推荐",
+      "platform": "doubao",
+      "mentioned": true,
+      "rank": 1,
+      "sentiment": "pos",
+      "cited": true,
+      "sources": 3,
+      "date": "2026-06-05"
+    },
+    {
+      "id": "r-iqq3geb",
+      "clientId": "c-fw7jjh5",
+      "prompt": "AIGC视频内容制作公司推荐",
+      "platform": "doubao",
+      "mentioned": true,
+      "rank": 3,
+      "sentiment": "pos",
+      "cited": true,
+      "sources": 1,
+      "date": "2026-06-04"
+    },
+    {
+      "id": "r-r5qedoz",
+      "clientId": "c-fw7jjh5",
+      "prompt": "AIGC视频内容制作公司推荐",
+      "platform": "doubao",
+      "mentioned": true,
+      "rank": 2,
+      "sentiment": "pos",
+      "cited": true,
+      "sources": 1,
+      "date": "2026-06-03"
+    },
+    {
+      "id": "r-91zf5gx",
+      "clientId": "c-fw7jjh5",
+      "prompt": "AIGC视频内容制作公司推荐",
+      "platform": "doubao",
+      "mentioned": true,
+      "rank": 2,
+      "sentiment": "pos",
+      "cited": true,
+      "sources": 2,
+      "date": "2026-06-02"
+    },
+    {
+      "id": "r-i2bqke6",
+      "clientId": "c-fw7jjh5",
+      "prompt": "AIGC视频内容制作公司推荐",
+      "platform": "doubao",
+      "mentioned": true,
+      "rank": 3,
+      "sentiment": "pos",
+      "cited": true,
+      "sources": 1,
+      "date": "2026-06-01"
+    },
+    {
+      "id": "r-lbk7v91",
       "clientId": "durex",
       "prompt": "什么牌子避孕套最薄",
       "platform": "doubao",
@@ -140,7 +326,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-poad9dl",
+      "id": "r-y9pn9ok",
       "clientId": "durex",
       "prompt": "什么牌子避孕套最薄",
       "platform": "deepseek",
@@ -152,7 +338,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-8wedwq2",
+      "id": "r-vsy9i91",
       "clientId": "durex",
       "prompt": "什么牌子避孕套最薄",
       "platform": "yuanbao",
@@ -164,7 +350,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-q6lea2m",
+      "id": "r-nnqn9mt",
       "clientId": "durex",
       "prompt": "什么牌子避孕套最薄",
       "platform": "qianwen",
@@ -176,7 +362,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-h4grwjj",
+      "id": "r-yg8gkos",
       "clientId": "durex",
       "prompt": "什么牌子避孕套最薄",
       "platform": "kimi",
@@ -188,7 +374,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-04dzyoa",
+      "id": "r-kel6bkd",
       "clientId": "durex",
       "prompt": "什么牌子避孕套最薄",
       "platform": "wenxin",
@@ -200,7 +386,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-cw22k71",
+      "id": "r-gy50a9q",
       "clientId": "durex",
       "prompt": "什么牌子避孕套最好用",
       "platform": "doubao",
@@ -212,7 +398,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-wq49mmg",
+      "id": "r-dyxd8ua",
       "clientId": "durex",
       "prompt": "什么牌子避孕套最好用",
       "platform": "deepseek",
@@ -224,7 +410,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-rfm57tm",
+      "id": "r-v2chvxl",
       "clientId": "durex",
       "prompt": "什么牌子避孕套最好用",
       "platform": "yuanbao",
@@ -236,7 +422,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-6v6t216",
+      "id": "r-l3kxbuo",
       "clientId": "durex",
       "prompt": "什么牌子避孕套最好用",
       "platform": "qianwen",
@@ -248,7 +434,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-wp0x6zr",
+      "id": "r-2vznzg3",
       "clientId": "durex",
       "prompt": "什么牌子避孕套最好用",
       "platform": "kimi",
@@ -260,7 +446,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-bmx5v4h",
+      "id": "r-z40b4th",
       "clientId": "durex",
       "prompt": "什么牌子避孕套最好用",
       "platform": "wenxin",
@@ -272,7 +458,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-o7hscs0",
+      "id": "r-dgyc673",
       "clientId": "durex",
       "prompt": "超薄避孕套推荐",
       "platform": "doubao",
@@ -284,7 +470,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-ajiixov",
+      "id": "r-2xa47ek",
       "clientId": "durex",
       "prompt": "超薄避孕套推荐",
       "platform": "deepseek",
@@ -296,7 +482,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-6lqqtyv",
+      "id": "r-3cb3saf",
       "clientId": "durex",
       "prompt": "超薄避孕套推荐",
       "platform": "yuanbao",
@@ -308,7 +494,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-xm2fls4",
+      "id": "r-7g7yny7",
       "clientId": "durex",
       "prompt": "超薄避孕套推荐",
       "platform": "qianwen",
@@ -320,7 +506,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-ecf1hdx",
+      "id": "r-sqfxm1k",
       "clientId": "durex",
       "prompt": "超薄避孕套推荐",
       "platform": "kimi",
@@ -332,7 +518,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-8qf6fii",
+      "id": "r-dhdsfxa",
       "clientId": "durex",
       "prompt": "超薄避孕套推荐",
       "platform": "wenxin",
@@ -344,7 +530,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-3wu7ibo",
+      "id": "r-nvwiq6u",
       "clientId": "durex",
       "prompt": "避孕套哪个牌子好",
       "platform": "doubao",
@@ -356,7 +542,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-zgmhlji",
+      "id": "r-p0cu8e1",
       "clientId": "durex",
       "prompt": "避孕套哪个牌子好",
       "platform": "deepseek",
@@ -368,7 +554,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-2yi5mrv",
+      "id": "r-f7cv2cx",
       "clientId": "durex",
       "prompt": "避孕套哪个牌子好",
       "platform": "yuanbao",
@@ -380,7 +566,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-bgghyxl",
+      "id": "r-07533f1",
       "clientId": "durex",
       "prompt": "避孕套哪个牌子好",
       "platform": "qianwen",
@@ -392,7 +578,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-e7j227b",
+      "id": "r-1clhy1c",
       "clientId": "durex",
       "prompt": "避孕套哪个牌子好",
       "platform": "kimi",
@@ -404,7 +590,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-wxpfrh9",
+      "id": "r-phw6yq2",
       "clientId": "durex",
       "prompt": "避孕套哪个牌子好",
       "platform": "wenxin",
@@ -416,7 +602,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-aivfv0l",
+      "id": "r-3w1ezj1",
       "clientId": "durex",
       "prompt": "情侣第一次用什么避孕套",
       "platform": "doubao",
@@ -428,7 +614,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-wvofq05",
+      "id": "r-qggbyy0",
       "clientId": "durex",
       "prompt": "情侣第一次用什么避孕套",
       "platform": "deepseek",
@@ -440,7 +626,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-an086gu",
+      "id": "r-0v7rgex",
       "clientId": "durex",
       "prompt": "情侣第一次用什么避孕套",
       "platform": "yuanbao",
@@ -452,7 +638,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-pdjp7s6",
+      "id": "r-dk5x55o",
       "clientId": "durex",
       "prompt": "情侣第一次用什么避孕套",
       "platform": "qianwen",
@@ -464,7 +650,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-fhim5j7",
+      "id": "r-hfchflo",
       "clientId": "durex",
       "prompt": "情侣第一次用什么避孕套",
       "platform": "kimi",
@@ -476,7 +662,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-uumdcmi",
+      "id": "r-h0l6kk3",
       "clientId": "durex",
       "prompt": "情侣第一次用什么避孕套",
       "platform": "wenxin",
@@ -488,7 +674,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-5yydnix",
+      "id": "r-y7hypn2",
       "clientId": "durex",
       "prompt": "玻尿酸避孕套推荐",
       "platform": "doubao",
@@ -500,7 +686,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-ae7szy6",
+      "id": "r-6nz5ly6",
       "clientId": "durex",
       "prompt": "玻尿酸避孕套推荐",
       "platform": "deepseek",
@@ -512,7 +698,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-8buvbw5",
+      "id": "r-wdn446n",
       "clientId": "durex",
       "prompt": "玻尿酸避孕套推荐",
       "platform": "yuanbao",
@@ -524,7 +710,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-olacsrc",
+      "id": "r-cpkhk6v",
       "clientId": "durex",
       "prompt": "玻尿酸避孕套推荐",
       "platform": "qianwen",
@@ -536,7 +722,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-9wgw0pq",
+      "id": "r-nbxs00u",
       "clientId": "durex",
       "prompt": "玻尿酸避孕套推荐",
       "platform": "kimi",
@@ -548,7 +734,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-bapdmx2",
+      "id": "r-2199fhb",
       "clientId": "durex",
       "prompt": "玻尿酸避孕套推荐",
       "platform": "wenxin",
@@ -560,7 +746,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-w48b90n",
+      "id": "r-jdzgafh",
       "clientId": "ziran",
       "prompt": "平价补水面霜推荐",
       "platform": "doubao",
@@ -572,7 +758,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-2zc1e6w",
+      "id": "r-zeyu5xj",
       "clientId": "ziran",
       "prompt": "平价补水面霜推荐",
       "platform": "deepseek",
@@ -584,7 +770,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-twe02dv",
+      "id": "r-0wbiqfa",
       "clientId": "ziran",
       "prompt": "平价补水面霜推荐",
       "platform": "yuanbao",
@@ -596,7 +782,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-h3mbyem",
+      "id": "r-le4xto2",
       "clientId": "ziran",
       "prompt": "平价补水面霜推荐",
       "platform": "qianwen",
@@ -608,7 +794,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-y9jfd0c",
+      "id": "r-lzbewo6",
       "clientId": "ziran",
       "prompt": "平价补水面霜推荐",
       "platform": "kimi",
@@ -620,7 +806,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-cx1yrh2",
+      "id": "r-u8ro2ni",
       "clientId": "ziran",
       "prompt": "平价补水面霜推荐",
       "platform": "wenxin",
@@ -632,7 +818,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-8hemk7k",
+      "id": "r-hjzpy6j",
       "clientId": "ziran",
       "prompt": "敏感肌用什么护肤品",
       "platform": "doubao",
@@ -644,7 +830,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-83vtgyd",
+      "id": "r-9fxzrxq",
       "clientId": "ziran",
       "prompt": "敏感肌用什么护肤品",
       "platform": "deepseek",
@@ -656,7 +842,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-iy33p8a",
+      "id": "r-vbownrj",
       "clientId": "ziran",
       "prompt": "敏感肌用什么护肤品",
       "platform": "yuanbao",
@@ -668,7 +854,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-tehh451",
+      "id": "r-m0gg5o9",
       "clientId": "ziran",
       "prompt": "敏感肌用什么护肤品",
       "platform": "qianwen",
@@ -680,7 +866,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-c1sb33n",
+      "id": "r-7otaxm8",
       "clientId": "ziran",
       "prompt": "敏感肌用什么护肤品",
       "platform": "kimi",
@@ -692,7 +878,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-y3yhfd8",
+      "id": "r-j8pp7a5",
       "clientId": "ziran",
       "prompt": "敏感肌用什么护肤品",
       "platform": "wenxin",
@@ -704,7 +890,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-z72gmug",
+      "id": "r-4j2g014",
       "clientId": "ziran",
       "prompt": "国货护肤品牌推荐",
       "platform": "doubao",
@@ -716,7 +902,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-imbmizd",
+      "id": "r-aqg7n8n",
       "clientId": "ziran",
       "prompt": "国货护肤品牌推荐",
       "platform": "deepseek",
@@ -728,7 +914,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-cqpa3zt",
+      "id": "r-s3ma4tu",
       "clientId": "ziran",
       "prompt": "国货护肤品牌推荐",
       "platform": "yuanbao",
@@ -740,7 +926,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-1896mug",
+      "id": "r-pm13hzi",
       "clientId": "ziran",
       "prompt": "国货护肤品牌推荐",
       "platform": "qianwen",
@@ -752,7 +938,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-q4w2qqc",
+      "id": "r-hl5yht4",
       "clientId": "ziran",
       "prompt": "国货护肤品牌推荐",
       "platform": "kimi",
@@ -764,7 +950,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-27iwzah",
+      "id": "r-n4jvsgs",
       "clientId": "ziran",
       "prompt": "国货护肤品牌推荐",
       "platform": "wenxin",
@@ -776,7 +962,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-mea0h6p",
+      "id": "r-w7qgrot",
       "clientId": "ziran",
       "prompt": "抗老精华哪个好",
       "platform": "doubao",
@@ -788,7 +974,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-nloktos",
+      "id": "r-igpos79",
       "clientId": "ziran",
       "prompt": "抗老精华哪个好",
       "platform": "deepseek",
@@ -800,7 +986,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-3b3fvwj",
+      "id": "r-c1asu47",
       "clientId": "ziran",
       "prompt": "抗老精华哪个好",
       "platform": "yuanbao",
@@ -812,7 +998,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-wruuiuj",
+      "id": "r-l31q9wu",
       "clientId": "ziran",
       "prompt": "抗老精华哪个好",
       "platform": "qianwen",
@@ -824,7 +1010,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-k7v4hpq",
+      "id": "r-vb3z7ap",
       "clientId": "ziran",
       "prompt": "抗老精华哪个好",
       "platform": "kimi",
@@ -836,7 +1022,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-e3xnime",
+      "id": "r-1njwl8w",
       "clientId": "ziran",
       "prompt": "抗老精华哪个好",
       "platform": "wenxin",
@@ -848,7 +1034,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-bbe3zr8",
+      "id": "r-4jbim3s",
       "clientId": "ziran",
       "prompt": "学生党护肤套装",
       "platform": "doubao",
@@ -860,7 +1046,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-wkz35bv",
+      "id": "r-j1wgifm",
       "clientId": "ziran",
       "prompt": "学生党护肤套装",
       "platform": "deepseek",
@@ -872,7 +1058,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-pyaom1s",
+      "id": "r-gz93u6q",
       "clientId": "ziran",
       "prompt": "学生党护肤套装",
       "platform": "yuanbao",
@@ -884,7 +1070,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-h8qe2mi",
+      "id": "r-mdkejt6",
       "clientId": "ziran",
       "prompt": "学生党护肤套装",
       "platform": "qianwen",
@@ -896,7 +1082,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-dex0jfv",
+      "id": "r-8e0gn59",
       "clientId": "ziran",
       "prompt": "学生党护肤套装",
       "platform": "kimi",
@@ -908,7 +1094,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-h483sfa",
+      "id": "r-tmao6hr",
       "clientId": "ziran",
       "prompt": "学生党护肤套装",
       "platform": "wenxin",
@@ -920,7 +1106,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-z8pvhun",
+      "id": "r-bgfqycc",
       "clientId": "ziran",
       "prompt": "冬天保湿面霜推荐",
       "platform": "doubao",
@@ -932,7 +1118,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-f4nlbs5",
+      "id": "r-3ihlzxq",
       "clientId": "ziran",
       "prompt": "冬天保湿面霜推荐",
       "platform": "deepseek",
@@ -944,7 +1130,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-2x1us8a",
+      "id": "r-gxarpux",
       "clientId": "ziran",
       "prompt": "冬天保湿面霜推荐",
       "platform": "yuanbao",
@@ -956,7 +1142,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-4jy3bb6",
+      "id": "r-2ostu03",
       "clientId": "ziran",
       "prompt": "冬天保湿面霜推荐",
       "platform": "qianwen",
@@ -968,7 +1154,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-0xc6bso",
+      "id": "r-f8gaqvg",
       "clientId": "ziran",
       "prompt": "冬天保湿面霜推荐",
       "platform": "kimi",
@@ -980,7 +1166,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-jlqi92l",
+      "id": "r-bf5ulnq",
       "clientId": "ziran",
       "prompt": "冬天保湿面霜推荐",
       "platform": "wenxin",
@@ -992,7 +1178,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-pqxk9g9",
+      "id": "r-rpkbhrm",
       "clientId": "genki",
       "prompt": "无糖气泡水推荐",
       "platform": "doubao",
@@ -1004,7 +1190,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-o2w2gh3",
+      "id": "r-upxnkyh",
       "clientId": "genki",
       "prompt": "无糖气泡水推荐",
       "platform": "deepseek",
@@ -1016,7 +1202,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-go2og7d",
+      "id": "r-ezrjtmd",
       "clientId": "genki",
       "prompt": "无糖气泡水推荐",
       "platform": "yuanbao",
@@ -1028,7 +1214,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-8bk0dqx",
+      "id": "r-ozmwuau",
       "clientId": "genki",
       "prompt": "无糖气泡水推荐",
       "platform": "qianwen",
@@ -1040,7 +1226,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-1yd8awm",
+      "id": "r-3z3pn8h",
       "clientId": "genki",
       "prompt": "无糖气泡水推荐",
       "platform": "kimi",
@@ -1052,7 +1238,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-qcbzsqy",
+      "id": "r-nynpbly",
       "clientId": "genki",
       "prompt": "无糖气泡水推荐",
       "platform": "wenxin",
@@ -1064,7 +1250,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-qpx721l",
+      "id": "r-3t8ewxq",
       "clientId": "genki",
       "prompt": "减肥喝什么饮料",
       "platform": "doubao",
@@ -1076,7 +1262,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-zcjg3rf",
+      "id": "r-xdc5j7m",
       "clientId": "genki",
       "prompt": "减肥喝什么饮料",
       "platform": "deepseek",
@@ -1088,7 +1274,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-kqg18nk",
+      "id": "r-odd5un0",
       "clientId": "genki",
       "prompt": "减肥喝什么饮料",
       "platform": "yuanbao",
@@ -1100,7 +1286,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-df4fd3k",
+      "id": "r-skhle0q",
       "clientId": "genki",
       "prompt": "减肥喝什么饮料",
       "platform": "qianwen",
@@ -1112,7 +1298,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-4nazfs0",
+      "id": "r-z5v96m0",
       "clientId": "genki",
       "prompt": "减肥喝什么饮料",
       "platform": "kimi",
@@ -1124,7 +1310,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-fd0wpgq",
+      "id": "r-iuskj8h",
       "clientId": "genki",
       "prompt": "减肥喝什么饮料",
       "platform": "wenxin",
@@ -1136,7 +1322,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-caoypnk",
+      "id": "r-kphipak",
       "clientId": "genki",
       "prompt": "好喝的无糖饮料",
       "platform": "doubao",
@@ -1148,7 +1334,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-w550ff5",
+      "id": "r-uv545k8",
       "clientId": "genki",
       "prompt": "好喝的无糖饮料",
       "platform": "deepseek",
@@ -1160,7 +1346,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-wio1nb1",
+      "id": "r-usa9mji",
       "clientId": "genki",
       "prompt": "好喝的无糖饮料",
       "platform": "yuanbao",
@@ -1172,7 +1358,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-fvgadis",
+      "id": "r-ugp6g1u",
       "clientId": "genki",
       "prompt": "好喝的无糖饮料",
       "platform": "qianwen",
@@ -1184,7 +1370,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-pe9indd",
+      "id": "r-grztkkq",
       "clientId": "genki",
       "prompt": "好喝的无糖饮料",
       "platform": "kimi",
@@ -1196,7 +1382,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-n8fc955",
+      "id": "r-hwg2mrb",
       "clientId": "genki",
       "prompt": "好喝的无糖饮料",
       "platform": "wenxin",
@@ -1208,7 +1394,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-ti877pz",
+      "id": "r-g7lcrpp",
       "clientId": "genki",
       "prompt": "健身党喝什么",
       "platform": "doubao",
@@ -1220,7 +1406,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-s6ct8o0",
+      "id": "r-elbvejr",
       "clientId": "genki",
       "prompt": "健身党喝什么",
       "platform": "deepseek",
@@ -1232,7 +1418,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-364semt",
+      "id": "r-3s1ofyl",
       "clientId": "genki",
       "prompt": "健身党喝什么",
       "platform": "yuanbao",
@@ -1244,7 +1430,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-hzi8f0k",
+      "id": "r-rjdejy1",
       "clientId": "genki",
       "prompt": "健身党喝什么",
       "platform": "qianwen",
@@ -1256,7 +1442,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-67z9n8e",
+      "id": "r-531n2mj",
       "clientId": "genki",
       "prompt": "健身党喝什么",
       "platform": "kimi",
@@ -1268,7 +1454,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-a71sszb",
+      "id": "r-hd5p59m",
       "clientId": "genki",
       "prompt": "健身党喝什么",
       "platform": "wenxin",
@@ -1280,7 +1466,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-ug8vymk",
+      "id": "r-l0b7w4m",
       "clientId": "genki",
       "prompt": "0卡饮料有哪些",
       "platform": "doubao",
@@ -1292,7 +1478,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-2yos8o6",
+      "id": "r-sete0mg",
       "clientId": "genki",
       "prompt": "0卡饮料有哪些",
       "platform": "deepseek",
@@ -1304,7 +1490,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-o2fcrm4",
+      "id": "r-wy4y66w",
       "clientId": "genki",
       "prompt": "0卡饮料有哪些",
       "platform": "yuanbao",
@@ -1316,7 +1502,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-5jcow2m",
+      "id": "r-w4stviw",
       "clientId": "genki",
       "prompt": "0卡饮料有哪些",
       "platform": "qianwen",
@@ -1328,7 +1514,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-8ykvgxw",
+      "id": "r-9xc8626",
       "clientId": "genki",
       "prompt": "0卡饮料有哪些",
       "platform": "kimi",
@@ -1340,7 +1526,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-ionpr9i",
+      "id": "r-3i90a12",
       "clientId": "genki",
       "prompt": "0卡饮料有哪些",
       "platform": "wenxin",
@@ -1352,7 +1538,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-6mntgs2",
+      "id": "r-64ezusp",
       "clientId": "genki",
       "prompt": "夏天解暑饮料推荐",
       "platform": "doubao",
@@ -1364,7 +1550,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-lmxrzg9",
+      "id": "r-ijzk5jf",
       "clientId": "genki",
       "prompt": "夏天解暑饮料推荐",
       "platform": "deepseek",
@@ -1376,7 +1562,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-cuda0t1",
+      "id": "r-7m8np5a",
       "clientId": "genki",
       "prompt": "夏天解暑饮料推荐",
       "platform": "yuanbao",
@@ -1388,7 +1574,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-gs1csof",
+      "id": "r-p208ot4",
       "clientId": "genki",
       "prompt": "夏天解暑饮料推荐",
       "platform": "qianwen",
@@ -1400,7 +1586,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-wowsyr1",
+      "id": "r-l882htq",
       "clientId": "genki",
       "prompt": "夏天解暑饮料推荐",
       "platform": "kimi",
@@ -1412,7 +1598,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-5m6ql4v",
+      "id": "r-gx54be3",
       "clientId": "genki",
       "prompt": "夏天解暑饮料推荐",
       "platform": "wenxin",
@@ -1424,7 +1610,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-rs9f62t",
+      "id": "r-3p87zl3",
       "clientId": "tineco",
       "prompt": "洗地机哪个牌子好",
       "platform": "doubao",
@@ -1436,7 +1622,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-vgmm1nv",
+      "id": "r-9shyc2k",
       "clientId": "tineco",
       "prompt": "洗地机哪个牌子好",
       "platform": "deepseek",
@@ -1448,7 +1634,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-5xv6uo5",
+      "id": "r-miq22e9",
       "clientId": "tineco",
       "prompt": "洗地机哪个牌子好",
       "platform": "qianwen",
@@ -1460,7 +1646,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-aleepbg",
+      "id": "r-ztdmxyo",
       "clientId": "tineco",
       "prompt": "洗地机哪个牌子好",
       "platform": "kimi",
@@ -1472,7 +1658,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-2zc0023",
+      "id": "r-3n6k00h",
       "clientId": "tineco",
       "prompt": "吸尘器推荐",
       "platform": "doubao",
@@ -1484,7 +1670,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-07qj8il",
+      "id": "r-388gwft",
       "clientId": "tineco",
       "prompt": "吸尘器推荐",
       "platform": "deepseek",
@@ -1496,7 +1682,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-6ed52y9",
+      "id": "r-7cx1hdh",
       "clientId": "tineco",
       "prompt": "吸尘器推荐",
       "platform": "qianwen",
@@ -1508,7 +1694,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-0azfl6w",
+      "id": "r-qs1lcf8",
       "clientId": "tineco",
       "prompt": "吸尘器推荐",
       "platform": "kimi",
@@ -1520,7 +1706,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-hoxunwm",
+      "id": "r-44qs0cf",
       "clientId": "tineco",
       "prompt": "智能清洁家电推荐",
       "platform": "doubao",
@@ -1532,7 +1718,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-klfbqp9",
+      "id": "r-iwdjyfg",
       "clientId": "tineco",
       "prompt": "智能清洁家电推荐",
       "platform": "deepseek",
@@ -1544,7 +1730,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-2ziqxfu",
+      "id": "r-xn7qrda",
       "clientId": "tineco",
       "prompt": "智能清洁家电推荐",
       "platform": "qianwen",
@@ -1556,7 +1742,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-m3g346t",
+      "id": "r-8kj9jyc",
       "clientId": "tineco",
       "prompt": "智能清洁家电推荐",
       "platform": "kimi",
@@ -1568,7 +1754,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-ol78xwq",
+      "id": "r-lonb4wr",
       "clientId": "tineco",
       "prompt": "扫地机器人哪个好",
       "platform": "doubao",
@@ -1580,7 +1766,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-uzmp7qn",
+      "id": "r-7n8phzu",
       "clientId": "tineco",
       "prompt": "扫地机器人哪个好",
       "platform": "deepseek",
@@ -1592,7 +1778,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-72v559z",
+      "id": "r-subglj4",
       "clientId": "tineco",
       "prompt": "扫地机器人哪个好",
       "platform": "qianwen",
@@ -1604,7 +1790,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-wyy1h4y",
+      "id": "r-3co6afo",
       "clientId": "tineco",
       "prompt": "扫地机器人哪个好",
       "platform": "kimi",
@@ -1616,7 +1802,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-9q6h4vz",
+      "id": "r-gur7nhc",
       "clientId": "tineco",
       "prompt": "除螨仪推荐",
       "platform": "doubao",
@@ -1628,7 +1814,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-wmur87z",
+      "id": "r-dttl2tg",
       "clientId": "tineco",
       "prompt": "除螨仪推荐",
       "platform": "deepseek",
@@ -1640,7 +1826,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-y9e16xv",
+      "id": "r-aonsftk",
       "clientId": "tineco",
       "prompt": "除螨仪推荐",
       "platform": "qianwen",
@@ -1652,7 +1838,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-gvdzpzk",
+      "id": "r-av4svxc",
       "clientId": "tineco",
       "prompt": "除螨仪推荐",
       "platform": "kimi",
@@ -1664,7 +1850,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-7m37lns",
+      "id": "r-nair6i5",
       "clientId": "tineco",
       "prompt": "家用洗地机排行",
       "platform": "doubao",
@@ -1676,7 +1862,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-ovukz4i",
+      "id": "r-pq5nv8u",
       "clientId": "tineco",
       "prompt": "家用洗地机排行",
       "platform": "deepseek",
@@ -1688,7 +1874,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-81mvind",
+      "id": "r-r52mhdm",
       "clientId": "tineco",
       "prompt": "家用洗地机排行",
       "platform": "qianwen",
@@ -1700,7 +1886,7 @@
       "date": "2026-06-01"
     },
     {
-      "id": "r-yjncr5q",
+      "id": "r-tw5gdse",
       "clientId": "tineco",
       "prompt": "家用洗地机排行",
       "platform": "kimi",
